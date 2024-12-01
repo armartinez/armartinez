@@ -1,14 +1,3 @@
-### Hey! 👋
-
-I'm just starting to create this page, many improvements will be coming!
-
-- 🌱 I’m currently learning: Swift
-- 📫 How to reach me: [Twitter](https://twitter.com/axel_c4), [Reddit](https://www.reddit.com/u/axel_c4)
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/armartinez/armartinez/blob/main/profile.png?raw=true">
+</p>
